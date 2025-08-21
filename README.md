@@ -3,3 +3,4 @@
 ### Vertical scalling or scalling up involves adding more power to the existing machines like upgrading server with a more powerful cpu. Horizontal scalling also known as scalling out, refers to adding more machines to the network.
 ### The horizontal scalling is the true auto-scalling. Cloud works with the consumption-based model.
 ### The cloud offers governance and compliance tools that help businesses define, enforce and monitor governance policies. These tools enable automated compliance checks, policy enforcement, and reporting.
+### Elasticity is the ability of a system to adapt to workload changes by provisioning and deprovisioning resources in an autonomus manner.
