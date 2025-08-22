@@ -8,7 +8,13 @@
 ### The Saas option reduces the effort in the software maintenance and infrastructure management, Everything provides by the cloud provider.
 ### Shared responsibility is devided; the provider secures the infrastructure, while the customer secures their data.
 ### In the saas model, customers have the least control over the computing environment, as the service provider manages everything from the application down to the hardware.
-### Iaas focuses on providing virtualized computing resources over the internet, allowing users to run and manage applications without dealing with physical hardware diredtly.
+### Iaas focuses on providing virtualized computing resources over the internet, allowing users to run and manage applications without dealing with physical hardware directly.
 ### Availability zone is a collection of data centers within a single region that are isolated to prevent outages from affecting the entire region.
 ### Azure regions are designed to allow users to deploy cloud resources close to their physical location to reduce latency and improve service performance.
 ### Availability is a feature in azure that ensures your application is available during planned and unplanned maintenance events.
+### Azure function is a serverless computer service.
+### Virtual machines- Complex applications, full-stack control
+### Azure Virtual Desktop - Remote Work, BYOD policies
+### Azure App Services- Web Applications, RESTful APIs
+### Containers- Microservices, rapid development/deployment
+### Azure Functions- Short lived, event-triggered tasks, microservices
