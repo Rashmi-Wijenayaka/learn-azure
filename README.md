@@ -18,3 +18,21 @@
 ### Azure App Services- Web Applications, RESTful APIs
 ### Containers- Microservices, rapid development/deployment
 ### Azure Functions- Short lived, event-triggered tasks, microservices
+### VPN Gateway is a specific type of Virtual Network Gateway that is used to send encrypted traffic between azure virtual network and on-premises. Site to site is more between one site to another site. Point to site a single point, like individual device to cloud. Express route is something called connectivity provider. It uses for hybrid cloud deployments. Companies with strict data protection regulations can utilizes expressroute to ensure data does not travel through the public internet. 
+### Azure virtual machines are best for traditional applications that require full control of the OS, where as azure functions are desinged for smaller, event-driven tasks.
+### Purpose of the azure dns is to manage domain names and provide dns resolution.Azure Virtual Machine Scale Sets allow you to create and manage a group of identical, load-balanced VMs. The number of VM instances can automatically increase or decrease in response to demand or a defined schedule, which is ideal for supporting large-scale services such as big data, containerized workloads, microservices, and cloud services.
+### Azure App Services is a platform-as-a-service (PaaS) offering of Microsoft Azure that allows developers to quickly build, deploy, and scale web applications and APIs using a fully managed platform.
+### Azure storage accounts encompass a range of services including blob storage for storing images, and all those unstructured data, file storage for managing file shares, queue storage for messaging queuing, and Table Storage for NoSQL data. 
+### Storage redundancy is a method of ensuring data is replicated and stored in multiple locations to prevent data loss and improve data availability.
+### Locally redundant storage(LRS) - Replicates data within a single storage facility in a single region.
+### Zone-redundant storage(ZRS) - Replicates data across multiple data centers in a single or multiple regions.
+### Geo-redundant storage(GRS) - A single data center in the primary and secondary region.
+### Geo-zone-redundant storage(GZRS) - Combines both ZRS and GRS for higher durability and availability.
+### Azure storage services provide a comprehensive solution for storing, accessing, and managing data in the cloud based on the data requirements.
+### Azure blob - This is for storing unstructured data like documents, images, or videos.
+### Disk storage - Disk for azure virtual machines.
+### Queue storage - This is designed for reliable messaging between application components.
+### Azure files - Offers managed file file shares for cloud or on-premises deployments.
+### Azure tables - Provides a NoSQL storage solution for rapid deployment and development. 
+### The Hot tier is ideal for data that we need to access quickly and often.
+### The cool tier si for short term back up where we don't access the data as often.
