@@ -45,4 +45,4 @@
 ### Azure file sync act as a bridge, synchronizing files across azure file shares and your on-premises windows servers.
 ### Life cycle management policies in azure storage can be used to automate the transition of data to teh most cost-effective access tier based on how frequently the data is accessed and how long it's stored.
 ### Azure Storage Explorer is a standalone app that enables you to easily work with Azure Storage data on Windows, macOS, and Linux.Locally redundant storage (LRS) replicates your data three times within a single storage scale unit located in a single region. This provides high durability for your data if there is a failure within the data center.
-### 
+### Microsoft enntra id is an identity and access management service. authentication is the microsoft entra id provide for us. Single sign on feature simplifies the user experience by allowing access to multiple applications just one set of credentials
