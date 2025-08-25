@@ -36,3 +36,13 @@
 ### Azure tables - Provides a NoSQL storage solution for rapid deployment and development. 
 ### The Hot tier is ideal for data that we need to access quickly and often.
 ### The cool tier si for short term back up where we don't access the data as often.
+### The archive access tier is optimised for data that is rarely accessed and stored for at least 180 days with flexibel lattency requirements(on the order of hours)
+### Azure migrating is a service that provides tools to assist organizations in migrating their existing on-premises workloads to azure.
+### 32 bits os are not supported for azure.
+### Azure databox is a data transfer solution provided by azure for moving large amounts of data into Azure storage and compute services. This is perfect for physical data transfer. Perfect for online data transfer. If the files are too large, we can't send them over the network, we just plug this device in the data center, copy all the files and send it to the Azure Data Center. Data Box Disk - for smaller data loads, Data Box - for large data volumes, Data Box Heavy - for very large scale data transfer needs.
+### AZ Copy is a command line utility that specializes in transfering files quickly. Perfect for large scale operations like bulk data transfer, backup, and archiving directly to azure storage.
+### Azure Storage Explore is perfect for ad hoc transfers and day to day management of data, offering an interactive and intuitive approach to exploring and managing files.
+### Azure file sync act as a bridge, synchronizing files across azure file shares and your on-premises windows servers.
+### Life cycle management policies in azure storage can be used to automate the transition of data to teh most cost-effective access tier based on how frequently the data is accessed and how long it's stored.
+### Azure Storage Explorer is a standalone app that enables you to easily work with Azure Storage data on Windows, macOS, and Linux.Locally redundant storage (LRS) replicates your data three times within a single storage scale unit located in a single region. This provides high durability for your data if there is a failure within the data center.
+### 
